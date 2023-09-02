@@ -2,7 +2,7 @@
 
 <br>
 
-![cert]
+![[cert]](https://github.com/anitadelgado/google_it_support/blob/main/Coursera%20NLX8M6L3HAXR_page-0001.jpg)
 
 
 * This repository written for reference and self-documentation purpose
